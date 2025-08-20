@@ -45,12 +45,6 @@ Defines the Counter NFT object, used as a unique VRF input for every game. Playe
 
 **Stake is fixed at 0.2 OCT**
 
-## Game Flow
-
-The sequence diagram below illustrates the game flow:
-
-![Sequence Diagram](onechain_blackjack_sequence_diagram.png)
-
 ### Source Code Directory Structure
 
 - `contracts/`: Move smart contracts (`blackjack` package)
@@ -70,8 +64,8 @@ OneChain-blockjack/
 ## How to Start the Game
 1. **Clone the Repository**  
     ```bash
-    git clone https://github.com/lorine93s/OneChain-blockjack.git
-    cd onechain-blockjack
+    git clone https://github.com/web3devz/Blockjack-Game.git
+    cd Blockjack-Game
     ```
 
 2. **Install Dependencies**  
